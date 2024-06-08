@@ -1,4 +1,3 @@
-```markdown
 # ProofLock
 
 ProofLock is a Zero-Knowledge Proof (ZKP) based secure authentication system designed to demonstrate a Proof of Concept (PoC) for cryptographic authentication using techniques inspired by the NARWAL system. The primary objective of ProofLock is to ensure secure authentication without revealing any sensitive information, thus maintaining user privacy and preventing replay attacks.
@@ -131,5 +130,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 Secure access, zero knowledge.
-```
 
